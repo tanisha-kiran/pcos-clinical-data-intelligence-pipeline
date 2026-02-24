@@ -12,10 +12,12 @@ This repository contains a small data pipeline for processing and modeling PCOS 
 Feature visualizations generated during exploration:
 
 ### BMI Category Distribution
-![BMI Category](bmi%20category.png)
+<img width="543" height="510" alt="image" src="https://github.com/user-attachments/assets/510cf39b-d8ee-44d3-9821-c3ec66c1cb41" />
+
 
 ### Correlation with PCOS label
-![Correlation](corellation.png)
+<img width="664" height="413" alt="image" src="https://github.com/user-attachments/assets/7145e24c-7dd9-4de5-bea2-6efa1c2930f3" />
+
 
 ## Quickstart
 1. Create a virtual environment and install dependencies:
