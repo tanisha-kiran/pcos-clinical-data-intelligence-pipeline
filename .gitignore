@@ -1,0 +1,21 @@
+data/raw/
+data/processed/
+data/logs/
+__pycache__/
+venv/
+
+# Python bytecode
+*.py[cod]
+
+# Virtual envs
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
