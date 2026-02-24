@@ -80,8 +80,7 @@ Visualizations included in the notebook:
 <img width="543" height="510" alt="image" src="https://github.com/user-attachments/assets/d0819fc2-ca59-4afa-908a-0d8737a1d6e4" />
 
 - Correlation Bar Plot
-  <img width="664" height="413" alt="image" src="https://github.com/user-attachments/assets/a01c44f2-864f-456e-824d-1e78af43cbe8" />
-
+<img width="664" height="413" alt="image" src="https://github.com/user-attachments/assets/a01c44f2-864f-456e-824d-1e78af43cbe8" />
 
 ---
 
@@ -99,10 +98,14 @@ Visualizations included in the notebook:
 ## 🚀 How to Run the Pipeline
 
 1️⃣ Install dependencies:
+
+
 pip install -r requirements.txt
 
 
 2️⃣ Run complete pipeline:
+
+
 python src/download_dataset.py
 python src/preprocessing.py
 python src/enrichment.py
